@@ -1,5 +1,5 @@
 # assert
-[![Build Status](https://travis-ci.org/tietang/assert.svg?branch=master)](https://travis-ci.org/tietang/assert
+[![Build Status](https://travis-ci.org/tietang/assert.svg?branch=master)](<https://travis-ci.org/tietang/assert>)
 
 a testing assert lib for golang
 
